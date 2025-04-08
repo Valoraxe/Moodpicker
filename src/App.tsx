@@ -13,7 +13,6 @@ export const App: React.FC = () => {
   }
 
   return (
-    //Testing git
     <GestureHandlerRootView style={{ flex: 1 }}>
       <AppProvider>
         <NavigationContainer>
